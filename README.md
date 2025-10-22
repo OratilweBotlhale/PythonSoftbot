@@ -136,5 +136,3 @@ It:
 FitBuddy demonstrates how **Artificial Intelligence can improve public health** through early detection and personalized advice.
 By combining **machine learning** and **natural voice interaction**, this project bridges the gap between technology and healthcare — making health awareness both accessible and engaging.
 
-
-Would you like me to generate the accompanying **`requirements.txt`** file for you too (so that everything installs smoothly on any computer)?
